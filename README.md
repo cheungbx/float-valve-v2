@@ -5,6 +5,7 @@
 
 click the picture below to view the demonstration and DIY video.
 [![PicureLinkedToVideo](picture.jpg)](https://youtu.be/t1FxCKXK-P4)
+[![PicureLinkedToVideo](IMG_5468.JPG)](https://youtu.be/t1FxCKXK-P4)
 
 
 # Float valve is a water level controller used in Passive Hydroponics systems.
